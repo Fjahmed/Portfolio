@@ -1,0 +1,49 @@
+#hero {
+    height: 100vh;
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .skills {
+    background-color: #90EE90;
+    padding: 50px 0;
+  }
+  
+  .skill {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .skill img {
+    margin-bottom: 10px;
+  }
+  
+  .skill h4 {
+    margin-top: 0;
+    font-weight: 700;
+  }
+  
+  .skill p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 0;
+  }
+  
+  #contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+  }
